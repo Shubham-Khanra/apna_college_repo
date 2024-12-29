@@ -1,2 +1,3 @@
 # apna_college_repo
-author- Shunbham Khanra
+This is my first git repository.
+author- Shunbham Khanra.
